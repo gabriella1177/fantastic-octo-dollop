@@ -16,10 +16,15 @@ It might be that more than one constructor
  You can limit your search for methods to the 
 String, Object, Array, and Number constructors. 
 
-Question 6:
+Question 6 = 9:
 
-index - ok
-lazyDog - ok
-operand2 - ok
+index - variable, function
+CatName - function
+snake_case - none because of underscore
+lazyDog - variable, function
+quick_Fox - none because of underscore
+1stCharacter - none because starts with number
+operand2 - variable, function
+BIG_NUMBER - constant magic number
 
 */
